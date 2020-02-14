@@ -1,0 +1,31 @@
+body {
+    background-color: #8cc6ff;
+}
+.top {
+    text-align: center;
+    font-size: 125px;
+    font-family: Coves;
+    margin-bottom: 75px;
+}
+
+.map {
+    display: block;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.info {
+    font-family: Coves;
+    font-size: 50px;
+}
+
+.bold {
+    font-weight: bold;
+}
+.mid {
+    text-align: center;
+    font-size: 65px;
+    font-family: Coves;
+    margin-bottom: 25px;
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "612273458198",
+    "firebase_url": "https://quakefind-e0f8e.firebaseio.com",
+    "project_id": "quakefind-e0f8e",
+    "storage_bucket": "quakefind-e0f8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612273458198:android:966cf5df6625dad4297937",
+        "android_client_info": {
+          "package_name": "com.example.quakefind"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612273458198-mmotuvpnmshjajhcsc2vdbris4olnpi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quakefind",
+            "certificate_hash": "0727d3e6fea2d33ffb44abb1e8be40561203032b"
+          }
+        },
+        {
+          "client_id": "612273458198-hknd511p1j87t6dbq9n2hccd4tg1ppkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdyXU96k6TfFzeDUIHJd25K3-OewLtqQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612273458198-hknd511p1j87t6dbq9n2hccd4tg1ppkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
